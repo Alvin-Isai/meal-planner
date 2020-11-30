@@ -1,0 +1,1 @@
+This is a personal project where I design a meal planner. Basic functions are to be able to make recipes, shopping list, calender, budget. Making it easier for the user/cook to plan future meals for the family or self.
